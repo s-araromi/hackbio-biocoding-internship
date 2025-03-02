@@ -1,4 +1,4 @@
-# Bacterial Growth Analysis Project  
+# Bacterial Growth Analysis Project HackBio Biocoding Internship - Stage Two (Task 2.1)
 
 ## Overview  
 This project analyzes the growth dynamics of bacterial strains (wild-type [WT] and mutant [MUT]) using experimental OD600 (optical density) measurements. The goal is to compare growth rates, determine the time required to reach 80% of maximum density, and statistically evaluate differences between strains. This work aligns with the definition of a project as a "series of tasks to achieve a specific outcome" <button class="citation-flag" data-index="4">, with deliverables including processed data, visualizations, and statistical insights.  
