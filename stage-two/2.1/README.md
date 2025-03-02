@@ -29,7 +29,7 @@ This project analyzes the growth dynamics of bacterial strains (wild-type [WT] a
 
 ## Results & Visualizations  
 ### 1. **Growth Curves**  
-![Growth Curves](image.png)  
+![Growth Curves](https://github.com/s-araromi/hackbio-biocoding-internship/blob/main/stage-two/2.1/growth%20curve.png)  
 - **Observation**: MUT strains (e.g., `Strain2_MUT`) consistently lagged behind WT in reaching peak OD600. Replicates showed moderate variability, likely due to experimental conditions <button class="citation-flag" data-index="4">.  
 
 ### 2. **Time to 80% Carrying Capacity**  
